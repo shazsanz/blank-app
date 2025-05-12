@@ -1,1 +1,7 @@
 streamlit
+plotly
+pandas
+pyotp
+NorenRestApiPy
+streamlit-autorefresh
+websocket
